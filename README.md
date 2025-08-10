@@ -13,3 +13,8 @@ One page layout showcasing some of my work. Made with HTML, CSS and JavaScript
 - PucciGames: https://github.com/FredrikAndreHansen/PucciGames
 
 Was a hosted website about games I make, made with HTML, CSS, JavaScript, Three.JS, PHP and MySQL. Has functionalities as signing in, creating and deleting users, writing comments and a admin dashboard.
+
+### $\textsf{\color{#012456}{PowerShell}}$
+- Desktop Cleaner: https://github.com/FredrikAndreHansen/cleanDesktop
+
+A PowerShell script that automatically takes your files from your desktop and move them into designated folders.
