@@ -1,6 +1,6 @@
 ## Hi, I'm Fredrik Palladino Hansen
 
-### I'm a Fullstack Angular and .Net/C# developer.
+### I'm a Fullstack Angular and .NET/C# developer.
 <br/><br/>
 Some of my work:
 
