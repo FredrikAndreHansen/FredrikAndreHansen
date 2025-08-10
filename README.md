@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi, I'm Fredrik Palladino Hansen
 
+### I'm a Fullstack Angular and .Net/C# developer.
+<br/><br/>
+Some of my work:
+
+### $\textsf{\color{#f0db4f}{JavaScript}}$
+- Portfolio: https://github.com/FredrikAndreHansen/Portfolio
+  
+One page layout showcasing some of my work. Made with HTML, CSS and JavaScript
 <!--
 **FredrikAndreHansen/FredrikAndreHansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
