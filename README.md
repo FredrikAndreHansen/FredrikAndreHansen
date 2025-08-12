@@ -14,6 +14,6 @@ Some of my work:
 
 ### $\textsf{\color{#0252bd}{PowerShell}}$
 - ### Website Checker: https://github.com/FredrikAndreHansen/websiteChecker
-  Checks if a given website is up or not automatically. The script has an GUI, and you can add or remove websites by your choice.
+  Checks if a given website is up or not automatically. The program has an GUI, and you can add or remove websites by your choice.
 - ### Desktop Cleaner: https://github.com/FredrikAndreHansen/cleanDesktop
   A PowerShell script that automatically takes your files from your desktop and move them into designated folders.
